@@ -27,4 +27,4 @@ Esse é o projeto de uma aplicação administrativa que vai ser utilizada pelo i
 - [Padrões de Desenvolvimento](DOCUMENTATION_STANDARDS.md)
 
 ## Como colaborar com o projeto?
-Acesse o links do repositório ao qual você quer colaborar e leia o arquivo README.md para saber como contribuir com o projeto.
+Acesse o links do repositório ao qual você quer colaborar e leia o arquivo [como colaborar]("ainda n fiz") para saber como contribuir com o projeto.
